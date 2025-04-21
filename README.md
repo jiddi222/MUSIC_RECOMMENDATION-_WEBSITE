@@ -1,5 +1,4 @@
 # MUSIC_RECOMMENDATION-_WEBSITE
-# Music Streaming Django Project
 
 ## Overview
 This is a Django-based music streaming project that allows users to upload and stream music files.
